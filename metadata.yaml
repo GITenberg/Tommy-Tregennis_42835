@@ -1,0 +1,35 @@
+_repo: Tommy-Tregennis_42835
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wheelhouse, M. V. (Mary V.)
+    alias: Wheelhouse, Mary V.
+    gutenberg_agent_id: '8926'
+    url: http://www.gutenberg.org/2009/agents/8926
+covers:
+- cover_type: archival
+  image_path: 42835-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, Mary Elizabeth
+    alias: Phillips, Mary E. (Mary Elizabeth)
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '4868'
+    url: http://www.gutenberg.org/2009/agents/4868
+description: ''
+gutenberg_issued: '2013-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PS'
+title: Tommy Tregennis
+url: http://www.gutenberg.org/ebooks/42835
